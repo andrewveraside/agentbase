@@ -1,0 +1,10 @@
+{
+  "name": "A股全栈数据",
+  "installedAt": 1789610707388,
+  "source": "marketplace",
+  "version": "3.2.3",
+  "skillId": "skill_2059464154913587200",
+  "description_zh": "A 股行情、研报、资金流、公告与财报查询工具包。",
+  "description_en": "A-share data toolkit for quotes, reports, funds flow, announcements, news, and financial analysis.",
+  "installedContentHash": "sha256:b98c0043eb2357d07c3119d69331bd9ff2c677beb2bb6f85a1e6a60bbed74ea8"
+}
