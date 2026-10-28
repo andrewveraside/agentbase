@@ -1,0 +1,14 @@
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+.token
+.env*
+*.bak
+*.bak3
+*.bak_*
+*.pyc
+__pycache__/
+backups/
+logs/
+archive/
